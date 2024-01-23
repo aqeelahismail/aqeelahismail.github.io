@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(76, 21, 110);
+}
+
+title {
+    text-align: center;
+    color: antiquewhite;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+p {
+    color:antiquewhite;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+button {
+    background-color: rgb(4, 4, 77);
+    color:antiquewhite;
+}
